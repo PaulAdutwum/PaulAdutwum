@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaulAdutwum
 - 👀 I am a cybersecurity enthusiast with a passion for learning and coding. 
 - 🌱 I’m a beginner currently exploring new techniques and tools in the field of cybersecurity.
-- 💞️ I’m looking to collaborate on projects related to cybersecurity and programming
+- 💞️ I’m looking forward to collaborating on projects related to cybersecurity and programming
 - 📫 Feel free to reach out via ny email pauladutwum303@gmail.com
 - 😄 Pronouns: he/him
   
