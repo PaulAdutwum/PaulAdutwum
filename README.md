@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 
 
-## 📚 Education
+## 🎓 Education
 - **Bates College**  
   - *B.Sc. in Computer Science, Physics, and Mathematics*
 
@@ -52,6 +52,33 @@ Welcome to my GitHub profile!
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+## 💼 Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 45%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3>🚌 <a href="https://github.com/PaulAdutwum/bobcat-express-website" target="_blank">Bobcat Express Website</a></h3>
+    <p>A web application for Bates College students to book rides, view schedules, and track real-time locations of the Bobcat Express shuttle.</p>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 45%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3>🎮 <a href="https://github.com/PaulAdutwum/skywalker-game" target="_blank">Skywalker: 2D Platformer Game</a></h3>
+    <p>A fun 2D platformer game built with Python and Pygame, featuring engaging levels and mechanics.</p>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 45%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3>📚 <a href="https://github.com/PaulAdutwum/library-management" target="_blank">Advanced Library Management System</a></h3>
+    <p>A Java-based library tool to manage borrowing, returning, and tracking books effectively.</p>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 45%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3>🔍 <a href="https://github.com/PaulAdutwum/ulam-analyzer" target="_blank">Ulam Sequence Analyzer</a></h3>
+    <p>Python program to analyze, visualize, and explore patterns in Ulam sequences.</p>
+  </div>
+
+</div>
+
+
 
 ## 💼 Projects
 ### 🎮 **[Skywalker: 2D Platformer Game](https://github.com/PaulAdutwum/skywalker-game)**
@@ -80,8 +107,7 @@ Welcome to my GitHub profile!
 
  
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PaulAdutwum-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/PaulAdutwum)
-[![Twitter](https://img.shields.io/badge/Twitter-@PaulAdutwum-blue?style=flat-square&logo=twitter)](https://twitter.com/PaulAdutwum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PaulAdutwum-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paul-adutwum-aaaabb27b)
 [![Instagram](https://img.shields.io/badge/Instagram-@PaulAdutwum-purple?style=flat-square&logo=instagram)](https://instagram.com/PaulAdutwum)
 [![Email](https://img.shields.io/badge/Email-Contact_me-red?style=flat-square&logo=gmail)](mailto:padutwum@bates.edu)
 [![Website](https://img.shields.io/badge/Website-PaulAdutwum-lightgrey?style=flat-square&logo=google-chrome)](https://pauladutwum.github.io)
