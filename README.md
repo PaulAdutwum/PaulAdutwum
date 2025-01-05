@@ -58,7 +58,7 @@ Welcome to my GitHub profile!
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 45%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3>🚌 <a href="https://github.com/PaulAdutwum/bobcat-express-website" target="_blank">Bobcat Express Website</a></h3>
+    <h3>🚌 <a href="https://github.com/PaulAdutwum/Bobcat_Website" target="_blank">Bobcat Express Website</a></h3>
     <p>A web application for Bates College students to book rides, view schedules, and track real-time locations of the Bobcat Express shuttle.</p>
   </div>
 
