@@ -63,7 +63,7 @@ Welcome to my GitHub profile!
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 45%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3>🎮 <a https://github.com/PaulAdutwum/Skywalker-2D-Platformer-Game-Developed-with-Pygame" target="_blank">Skywalker: 2D Platformer Game</a></h3>
+    <h3>🎮 <a href="https://github.com/PaulAdutwum/Skywalker-2D-Platformer-Game-Developed-with-Pygame" target="_blank">Skywalker: 2D Platformer Game</a></h3>
     <p>A fun 2D platformer game built with Python and Pygame, featuring engaging levels and mechanics.</p>
   </div>
 
