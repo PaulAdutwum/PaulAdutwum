@@ -73,7 +73,7 @@ Welcome to my GitHub profile!
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 45%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-    <h3>🔍 <a href="https://github.com/PaulAdutwum/ulam-analyzer" target="_blank">Ulam Sequence Analyzer</a></h3>
+    <h3>🔍 <a href="https://github.com/PaulAdutwum/Main-Gibbs-Algorithm-" target="_blank">Ulam Sequence Analyzer</a></h3>
     <p>Python program to analyze, visualize, and explore patterns in Ulam sequences.</p>
   </div>
 
