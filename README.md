@@ -52,6 +52,7 @@ Welcome to my GitHub profile!
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+
 ## 💼 Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
@@ -78,32 +79,6 @@ Welcome to my GitHub profile!
 
 </div>
 
-
-
-## 💼 Projects
-### 🎮 **[Skywalker: 2D Platformer Game](https://github.com/PaulAdutwum/skywalker-game)**
-- **Technologies**: Python, Pygame
-- An engaging 2D platformer game with exciting mechanics and levels.
-
-### 📚 **[Advanced Library Management System](https://github.com/PaulAdutwum/library-management)**
-- **Technologies**: Java, Data Structures
-- A comprehensive library management tool with features for borrowing, returning, and tracking books.
-
-### 🔍 **[Ulam Sequence Analyzer](https://github.com/PaulAdutwum/ulam-analyzer)**
-- **Technologies**: Python, Algorithms
-- A program to analyze and visualize the properties of Ulam sequences.
-
-### 🚌 **[Bobcat Express Website](https://github.com/PaulAdutwum/Bobcat_Website)**
-- **Technologies**: HTML, CSS, JavaScript, Flask, APIs  
-- A web application designed for Bates College students to:
-  - Book shuttle rides easily.
-  - View shuttle schedules conveniently.
-  - Track real-time locations of the Bobcat Express shuttle.  
-
-#### **Key Features**:
-- **User-Friendly Interface**: Simplifies ride booking and scheduling for students.  
-- **Real-Time Shuttle Tracking**: Uses web APIs to provide accurate, up-to-date shuttle locations.  
-- **Admin Panel**: Enables dispatchers to approve ride requests and manage schedules efficiently.  
 
  
 ## 📫 Connect With Me
