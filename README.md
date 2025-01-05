@@ -14,8 +14,8 @@ Welcome to my GitHub profile!
 ![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulAdutwum&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PaulAdutwum&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=PaulAdutwum&color=blue)
 
-- **Total Contributions:** ![Contributions](https://img.shields.io/github/contributions/PaulAdutwum?style=flat-square)
 
 
 
@@ -93,7 +93,7 @@ Welcome to my GitHub profile!
 - **Technologies**: Python, Algorithms
 - A program to analyze and visualize the properties of Ulam sequences.
 
-### 🚌 **[Bobcat Express Website](https://github.com/PaulAdutwum/BobcatExpress)**
+### 🚌 **[Bobcat Express Website](https://github.com/PaulAdutwum/Bobcat_Website)**
 - **Technologies**: HTML, CSS, JavaScript, Flask, APIs  
 - A web application designed for Bates College students to:
   - Book shuttle rides easily.
