@@ -20,7 +20,10 @@ I'm Paul Adutwum, a passionate developer with interests Data Science, ML and Ful
 ![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulAdutwum&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pauladutwum&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&theme=radical)
+# Hi there! 👋
+
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=PaulAdutwum.PaulAdutwum)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pauladutwum&theme=radical)
 
 
