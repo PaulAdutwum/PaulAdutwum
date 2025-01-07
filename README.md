@@ -1,6 +1,12 @@
-# Hi there! 👋 I'm Paul Adutwum, feel free to call me Paul
+# Hi there! 👋
+I'm Paul Adutwum, a passionate developer with interests Data Science, ML and Fullstack Development.
 
-Welcome to my GitHub profile! 
+- 🔭 I’m currently working on **Web Development Projects**
+- 🌱 I’m learning **Machine Learning**
+- 💬 Ask me about **Python, Flask, and Web APIs**
+
+🌐 **Connect with me**:
+[LinkedIn](https://linkedin.com/in/paul-adutwum) | [Portfolio](https://pauladutwum.com)
 
 
 
@@ -12,10 +18,10 @@ Welcome to my GitHub profile!
 
 ## 📊 GitHub Stats
 ![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulAdutwum&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PaulAdutwum&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pauladutwum&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=PaulAdutwum&color=blue)
-
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=pauladutwum.pauladutwum)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pauladutwum&theme=radical)
 
 
 
