@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## 🎓 Education
 - **Bates College**  
-  - *B.Sc. in Computer Science, Physics, and Mathematics*
+  - *B.Sc. in Computer Science, and Mathematics*
 
 ---
 
