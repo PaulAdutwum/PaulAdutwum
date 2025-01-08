@@ -1,9 +1,9 @@
-# Hi there! 👋
+# Hi there! Welcome to my Github! 👋
 I'm Paul Adutwum, a passionate developer with interests Data Science, ML and Fullstack Development.
 
 - 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m learning **Machine Learning**
-- 💬 Ask me about **Python, Flask, and Web APIs**
+
+
 
 🌐 **Connect with me**:
 [LinkedIn](https://linkedin.com/in/paul-adutwum) | [Portfolio](https://pauladutwum.com)
