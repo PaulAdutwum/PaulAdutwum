@@ -1,13 +1,5 @@
-# Hi there! Welcome to my Github! 👋
-I'm Paul Adutwum, a passionate developer with interests Data Science, ML and Fullstack Development.
-
-- 🔭 I’m currently working on **Web Development Projects**
-
-
-
-🌐 **Connect with me**:
-[LinkedIn](https://www.linkedin.com/in/paul-adutwum-aaaabb27b/) | [Portfolio](https://pauls-portfolio-website.netlify.app/)
-
+# Hi there! Welcome to my Github! 
+I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College, studying Computerscience and Mathematics. I am interested in Data Science, Machine Learning and Fullstack Development.
 
 
 ## 🎓 Education
@@ -85,6 +77,8 @@ I'm Paul Adutwum, a passionate developer with interests Data Science, ML and Ful
 
 </div>
 
+🌐 **Connect with me**:
+[LinkedIn](https://www.linkedin.com/in/paul-adutwum-aaaabb27b/) | [Portfolio](https://pauls-portfolio-website.netlify.app/)
 
  
 ## 📫 Connect With Me
