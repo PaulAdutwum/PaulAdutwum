@@ -6,7 +6,7 @@ I'm Paul Adutwum, a passionate developer with interests Data Science, ML and Ful
 
 
 🌐 **Connect with me**:
-[LinkedIn](https://linkedin.com/in/paul-adutwum) | [Portfolio](https://pauladutwum.com)
+[LinkedIn](https://www.linkedin.com/in/paul-adutwum-aaaabb27b/) | [Portfolio](https://pauls-portfolio-website.netlify.app/)
 
 
 
