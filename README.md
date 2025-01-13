@@ -91,7 +91,7 @@ I'm Paul Adutwum, a passionate developer with interests Data Science, ML and Ful
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PaulAdutwum-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paul-adutwum-aaaabb27b)
 [![Instagram](https://img.shields.io/badge/Instagram-@PaulAdutwum-purple?style=flat-square&logo=instagram)](https://instagram.com/PaulAdutwum)
 [![Email](https://img.shields.io/badge/Email-Contact_me-red?style=flat-square&logo=gmail)](mailto:padutwum@bates.edu)
-[![Website](https://img.shields.io/badge/Website-PaulAdutwum-lightgrey?style=flat-square&logo=google-chrome)](https://pauladutwum.github.io)
+[![Website](https://img.shields.io/badge/Website-PaulAdutwum-lightgrey?style=flat-square&logo=google-chrome)](https://pauls-portfolio-website.netlify.app/)
 
 ---
 
