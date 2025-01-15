@@ -1,10 +1,10 @@
 # Hi there! Welcome to my Github! 
-I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College, studying Computerscience and Mathematics. I am interested in Data Science, Machine Learning and Fullstack Development.
+I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College, studying Computerscience and Mathematics. I am interested in Data Science, Machine Learning and Fullstack Development. Currently I am seeking internship opportunites for summer 2025. Please feel free to connect with me via my email or social media
 
 
 ## 🎓 Education
-- **Bates College**  
-  - *B.Sc. in Computer Science, and Mathematics*
+- Bates College
+  - B.Sc. in Computer Science, and Mathematics
 
 ---
 
@@ -19,22 +19,22 @@ I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College,
 
 
 ## 🌟 Interests
-- **Web Development**: Crafting responsive and user-friendly web applications.
-- **Machine Learning**: Exploring AI and machine learning to create smarter applications.
-- **Data Science**: Analyzing data to uncover patterns, make predictions, and drive decisions.
-- **Databases**: Designing and optimizing database systems for efficient data storage and retrieval.
-- **Cloud Engineering**: Leveraging cloud platforms like AWS and Azure for scalable, reliable applications.
-- **Open Source**: Contributing to open-source projects and collaborating with the developer community.
----
+- Web Development: 
+- Machine Learning: 
+- Data Science: 
+- Databases: 
+- **Cloud Engineering
+- **Open Source
+
 
 ## 🌱 Currently Learning
-- **Django**: Enhancing my backend development skills with this powerful Python framework.
-- **React Native**: Building cross-platform mobile applications.
-- **Docker & Kubernetes**: Containerization and orchestration for scalable applications.
-- **AWS (Amazon Web Services)**: Learning cloud solutions for storage, hosting, and scalable application deployment.
-- **AI and Machine Learning**: Deepening my understanding of artificial intelligence and data-driven solutions.
+- Django
+- React Native
+- Docker & Kubernetes
+- WS (Amazon Web Services)
+- AI and Machine Learning
 
----
+
 
 ## 🛠️ Tools and Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -87,8 +87,8 @@ I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College,
 [![Email](https://img.shields.io/badge/Email-Contact_me-red?style=flat-square&logo=gmail)](mailto:padutwum@bates.edu)
 [![Website](https://img.shields.io/badge/Website-PaulAdutwum-lightgrey?style=flat-square&logo=google-chrome)](https://pauls-portfolio-website.netlify.app/)
 
----
 
----
 
-Thank you for visiting my profile! I am always open to collaborating on exciting projects, whether it's exploring innovative ideas, learning new programming concepts and languages, or solving challenging LeetCode problems. Let's connect and work on something truly innovative and impactful. 🚀
+
+
+Thank you for visiting my profile, Please reach out to me for if you have any questions. 🚀
