@@ -23,8 +23,7 @@ I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College,
 - Machine Learning: 
 - Data Science: 
 - Databases: 
-- **Cloud Engineering
-- **Open Source
+  
 
 
 ## 🌱 Currently Learning
