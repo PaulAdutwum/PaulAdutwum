@@ -76,8 +76,6 @@ I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College,
 
 </div>
 
-🌐 **Connect with me**:
-[LinkedIn](https://www.linkedin.com/in/paul-adutwum-aaaabb27b/) | [Portfolio](https://pauls-portfolio-website.netlify.app/)
 
  
 ## 📫 Connect With Me
