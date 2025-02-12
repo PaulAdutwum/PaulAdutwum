@@ -17,8 +17,8 @@ I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College,
 
 
 ## 🌟 Interests
-- Web Development: 
-- Machine Learning: 
+- Fullstack Development: 
+- AI / Machine Learning: 
 - Data Science: 
 
   
