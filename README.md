@@ -6,7 +6,7 @@ I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College,
 - Bates College
 - B.Sc. in Computer Science, and Mathematics
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulAdutwum&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pauladutwum&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&theme=radical)
