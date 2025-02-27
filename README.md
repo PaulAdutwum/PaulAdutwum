@@ -1,5 +1,5 @@
 #  Welcome to my Github! 
-I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College, studying Computerscience and Mathematics. I am interested in Data Science, Machine Learning and Fullstack Development. Currently I am seeking internship opportunites for summer 2025. Please feel free to connect with me via my email or social media
+I'm Paul Adutwum, feel free to to call me Paul. I am a student at Bates College, studying Computerscience and Mathematics. I love building apps! Currently, I am seeking internship opportunites for summer 2025. Please feel free to connect with me via my email or social media
 
 
 ## 🎓 Education
