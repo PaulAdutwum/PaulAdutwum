@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Paul Adutwum!   
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusiast** with a passion for building impactful applications that solve real-world problems. I specialize in **React.js, Next.js, Node.js, Python, and REST APIs**, and I'm always exploring new technologies to enhance my projects.
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusiast** with a passion for using technology to make the world better. 
 
 ## 🔥 About Me  
 - 🎓 **Computer Science & Mathematics Major** at **Bates College**  
-- 💡 Passionate about **AI, Data Science, Web Development, and Automation**  
-- 🏗️ Focused on **building scalable and user-friendly applications**  
+- 💡 Passionate about **Fullstack Development, AI, Data Science, Web Development, and Automation**  
+- 🏗️ Focused on **building scalable, aceesible and user-friendly applications**  
 - 🚀 Always learning and contributing to **open-source projects**  
 
 ---
