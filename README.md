@@ -76,14 +76,14 @@ Repo: [Shuttle Tracking Repository](https://github.com/PaulAdutwum/Bobcat-Expres
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Lumeo&theme=radical" alt="Lumeo AI Movie Recommendation System" />  
   </a>  
   <a href="https://github.com/PaulAdutwum/Bobcat-Express-Shuttle">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Bobcat-Express-Shuttle&theme=radical" alt="Shuttle Tracking System" />  
-  Bates College Bobcat Express Shuttle</a>  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Bobcat-Express-Shuttle&theme=radical" alt="Shuttle Tracking Application" />  
+  </a>  
   <a href="https://github.com/PaulAdutwum/Stocks-Prediction-Project">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Stocks-Prediction-Project&theme=radical" alt="Stock Market Prediction" />  
- Application to Predict and Sotcks trends </a>  
+s </a>  
   <a href="https://github.com/PaulAdutwum/Pauls-Portfolio">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Pauls-Portfolio&theme=radical" alt="Portfolio Website" />  
- My Portfolio </a>  
+ </a>  
 </p>  
 
 
