@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
 
 ## 🛠️ Tech Stack  
 
-### **💻 Languages & Frameworks**  
+### ** Languages & Frameworks**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 
-### **🛢️ Databases & Cloud**  
+### ** Databases & Cloud**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
@@ -38,26 +38,26 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟  Projects  
 
-### **1️⃣ Lumeo – AI-Powered Movie Recommendation System** 🎬  
-🔗 **Live Demo:** [Lumeo](https://github.com/PaulAdutwum/Lumeo)  
-🔗 **Repo:** [Lumeo Repository](https://github.com/PaulAdutwum/Lumeo)  
-📝 **Description:** Developed an **AI-powered recommendation engine** that analyzes user sentiment to suggest personalized movies, enhancing emotional well-being and mental health support through entertainment.  
+### ** 🎬Lumeo – AI-Powered Movie Recommendation System** 🎬  
+ **Live Demo:** [Lumeo](https://github.com/PaulAdutwum/Lumeo)  
+ **Repo:** [Lumeo Repository](https://github.com/PaulAdutwum/Lumeo)  
+ **Description:** Developed an **AI-powered recommendation engine** that analyzes user sentiment to suggest personalized movies, enhancing emotional well-being and mental health support through entertainment.  
 
-### **2️⃣ Shuttle Tracking System** 🚌  
-🔗 **Live Demo:** [Bobcat Express](https://github.com/PaulAdutwum/Bobcat-Express)  
-🔗 **Repo:** [Shuttle Tracking Repository](https://github.com/PaulAdutwum/Bobcat-Express)  
-📝 **Description:** Created a **real-time shuttle tracking web app** using **Google Maps API** to enhance campus transportation efficiency. Implemented **Firebase and SQL** for data logging.  
+### **Shuttle Tracking System** 🚌  
+**Live Demo:** [Bobcat Express](https://github.com/PaulAdutwum/Bobcat-Express)  
+**Repo:** [Shuttle Tracking Repository](https://github.com/PaulAdutwum/Bobcat-Express)  
+ **Description:** Created a **real-time shuttle tracking web app** using **Google Maps API** to enhance campus transportation efficiency. Implemented **Firebase and SQL** for data logging.  
 
-### **3️⃣ Stock Market Analysis & Dashboard** 📈  
-🔗 **Live Demo:** [Stock Dashboard](https://github.com/PaulAdutwum/Stock-Tracker)  
-🔗 **Repo:** [Stock Analysis Repository](https://github.com/PaulAdutwum/Stock-Tracker)  
-📝 **Description:** Built an interactive **stock market analysis dashboard** that fetches real-time stock data using **REST APIs** and visualizes trends using **Chart.js and Plotly**.  
+### **📈Stock Market Analysis & Dashboard** 📈  
+ **Live Demo:** [Stock Dashboard](https://github.com/PaulAdutwum/Stock-Tracker)  
+ **Repo:** [Stock Analysis Repository](https://github.com/PaulAdutwum/Stock-Tracker)  
+ **Description:** Built an interactive **stock market analysis dashboard** that fetches real-time stock data using **REST APIs** and visualizes trends using **Chart.js and Plotly**.  
 
 ---
 
-## 📊 GitHub Stats & Activity  
+##  GitHub Stats & Activity  
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=PaulAdutwum&show_icons=true&theme=radical" alt="GitHub Stats" />  
 </p>  
