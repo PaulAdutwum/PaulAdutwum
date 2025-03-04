@@ -74,15 +74,33 @@ Repo: [Shuttle Tracking Repository](https://github.com/PaulAdutwum/Bobcat-Expres
   <a href="https://github.com/PaulAdutwum/Lumeo">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Lumeo&theme=radical" alt="Lumeo AI Movie Recommendation System" />  
   </a>  
+  <br>  
+  **🎬 Lumeo – AI-Powered Movie Recommendation System**  
+  An AI-driven **movie recommendation platform** that personalizes suggestions based on user sentiment and preferences. Uses **NLP, machine learning, and real-time user interactions** to improve movie recommendations.  
+</p>  
+<p align="center">  
   <a href="https://github.com/PaulAdutwum/Bobcat-Express-Shuttle">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Bobcat-Express-Shuttle&theme=radical" alt="Shuttle Tracking System" />  
   </a>  
+  <br>  
+  **🚌 Bobcat Express – Campus Shuttle Tracking System**  
+  A **real-time shuttle tracking system** built with **Google Maps API, Firebase, and SQL**. Designed to enhance campus transportation by providing accurate **shuttle locations, ride requests, and analytics**.  
+</p>  
+<p align="center">  
   <a href="https://github.com/PaulAdutwum/Stocks-Prediction-Project">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Stocks-Prediction-Project&theme=radical" alt="Stock Market Prediction" />  
   </a>  
+  <br>  
+  **📈 Stock Market Analysis & Prediction**  
+  A **data-driven stock market dashboard** that uses **machine learning models** to predict trends. Integrates **real-time stock data APIs** and **Chart.js/Plotly** for dynamic visualizations and deep market insights.  
+</p>  
+<p align="center">  
   <a href="https://github.com/PaulAdutwum/Pauls-Portfolio">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Pauls-Portfolio&theme=radical" alt="Portfolio Website" />  
   </a>  
+  <br>  
+  **🌍 Paul’s Portfolio – Personal Developer Website**  
+  A modern **personal portfolio website** showcasing **projects, skills, and achievements**. Built with **React.js, Next.js, Tailwind CSS**, and deployed on **Vercel** for fast and smooth performance.  
 </p>  
 
 
