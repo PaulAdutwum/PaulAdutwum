@@ -26,39 +26,31 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   </div>
 </p>
-###  Databases & Cloud  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 📊 Databases & Cloud  
+<p align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </div>
+</p>
+
+---
 
 ### 🛠️ Tools & Technologies  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
-
----
-
+<p align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  </div>
+</p>
 ## 🌟  Projects  
 
-###  Lumeo – AI-Powered Movie Recommendation System🎬  
- Live Demo: [Lumeo](https://github.com/PaulAdutwum/Lumeo)  
- Repo: [Lumeo Repository](https://github.com/PaulAdutwum/Lumeo)  
- Description: Developed an **AI-powered recommendation engine** that analyzes user sentiment to suggest personalized movies, enhancing emotional well-being and mental health support through entertainment.  
-
-### **Shuttle Tracking System** 🚌  
-**Live Demo:** [Bobcat Express](https://github.com/PaulAdutwum/Bobcat-Express)  
-Repo: [Shuttle Tracking Repository](https://github.com/PaulAdutwum/Bobcat-Express)  
- **Description:** Created a **real-time shuttle tracking web app** using **Google Maps API** to enhance campus transportation efficiency. Implemented **Firebase and SQL** for data logging.  
-
-### **📈Stock Market Analysis & Dashboard** 📈  
- **Live Demo:** [Stock Dashboard](https://github.com/PaulAdutwum/Stock-Tracker)  
- **Repo:** [Stock Analysis Repository](https://github.com/PaulAdutwum/Stock-Tracker)  
- **Description:** Built an interactive **stock market analysis dashboard** that fetches real-time stock data using **REST APIs** and visualizes trends using **Chart.js and Plotly**.  
-
----
 
 ##  GitHub Stats & Activity  
 <p align="center">  
