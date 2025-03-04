@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Paul Adutwum! 🚀  
+# 👋 Hello, I'm Paul Adutwum!   
 
 Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusiast** with a passion for building impactful applications that solve real-world problems. I specialize in **React.js, Next.js, Node.js, Python, and REST APIs**, and I'm always exploring new technologies to enhance my projects.
 
@@ -68,19 +68,23 @@ Repo: [Shuttle Tracking Repository](https://github.com/PaulAdutwum/Bobcat-Expres
 
 ---
 
-## 📌 Pinned Repositories 
+
 ## 📌 Pinned Repositories  
 <p align="center">  
   <a href="https://github.com/PaulAdutwum/Lumeo">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Lumeo&theme=radical&token=YOUR_GITHUB_PAT" alt="Lumeo AI Movie Recommendation System" />  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Lumeo&theme=radical" alt="Lumeo AI Movie Recommendation System" />  
   </a>  
-  <a href="https://github.com/PaulAdutwum/Bobcat-Express">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Bobcat-Express&theme=radical&token=YOUR_GITHUB_PAT" alt="Shuttle Tracking System" />  
+  <a href="https://github.com/PaulAdutwum/Bobcat-Express-Shuttle">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Bobcat-Express-Shuttle&theme=radical" alt="Shuttle Tracking System" />  
   </a>  
-  <a href="https://github.com/PaulAdutwum/Stock-Tracker">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Stock-Tracker&theme=radical&token=YOUR_GITHUB_PAT" alt="Stock Market Analysis Dashboard" />  
+  <a href="https://github.com/PaulAdutwum/Stocks-Prediction-Project">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Stocks-Prediction-Project&theme=radical" alt="Stock Market Prediction" />  
+  </a>  
+  <a href="https://github.com/PaulAdutwum/Pauls-Portfolio">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Pauls-Portfolio&theme=radical" alt="Portfolio Website" />  
   </a>  
 </p>  
+
 
 ## 📫 Connect with Me  
 - 📧 **Email:** pauladutwum303@gmail.com  
