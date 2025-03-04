@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
 ## 🔥 About Me  
 - 🎓 **Computer Science & Mathematics Major** at **Bates College**  
 - 💡 Passionate about **Fullstack Development, AI, Data Science, Web Development, and Automation**  
-- 🏗️ Focused on **building scalable, aceesible and user-friendly applications**  
+- 🏗️ Focused on **building scalable, acesssible and user-friendly applications**  
 - 🚀 Always learning and contributing to **open-source projects**  
 
 ---
