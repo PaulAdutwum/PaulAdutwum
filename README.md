@@ -68,20 +68,19 @@ Repo: [Shuttle Tracking Repository](https://github.com/PaulAdutwum/Bobcat-Expres
 
 ---
 
+## 📌 Pinned Repositories 
 ## 📌 Pinned Repositories  
 <p align="center">  
   <a href="https://github.com/PaulAdutwum/Lumeo">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Lumeo&theme=radical" />  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Lumeo&theme=radical&token=YOUR_GITHUB_PAT" alt="Lumeo AI Movie Recommendation System" />  
   </a>  
   <a href="https://github.com/PaulAdutwum/Bobcat-Express">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Bobcat-Express&theme=radical" />  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Bobcat-Express&theme=radical&token=YOUR_GITHUB_PAT" alt="Shuttle Tracking System" />  
   </a>  
   <a href="https://github.com/PaulAdutwum/Stock-Tracker">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Stock-Tracker&theme=radical" />  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Stock-Tracker&theme=radical&token=YOUR_GITHUB_PAT" alt="Stock Market Analysis Dashboard" />  
   </a>  
 </p>  
-
----
 
 ## 📫 Connect with Me  
 - 📧 **Email:** pauladutwum303@gmail.com  
