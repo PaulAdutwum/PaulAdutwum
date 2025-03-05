@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusiast** with a passion for using technology to make the world better. 
 
-## 🔥 About Me  
-- 🎓 **Computer Science & Mathematics Major** at **Bates College**  
-- 💡 Passionate about **Fullstack Development, AI, Data Science, Web Development, and Automation**  
-- 🏗️ Focused on **building scalable, acesssible and user-friendly applications**  
+##  About Me  
+-  **Computer Science & Mathematics Major** at **Bates College**  
+-  Passionate about **Fullstack Development, AI, Data Science, Web Development, and Automation**  
+-  Focused on **building scalable, acesssible and user-friendly applications**  
 - 🚀 Always learning and contributing to **open-source projects**  
 
 ---
@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
 ---
 
 
-## 📌 Pinned Repositories  
+##  Pinned Repositories  
 
 <p align="center">  
   <a href="https://github.com/PaulAdutwum/Lumeo">  
@@ -82,10 +82,10 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
 </p>  
 
 
-## 📫 Contact Me  
-- 📧 Email: pauladutwum303@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/paul-adutwum](https://linkedin.com/in/paul-adutwum)  
-- 🏗️ GitHub: [github.com/PaulAdutwum](https://github.com/PaulAdutwum)  
+##  Contact Me  
+-  Email: pauladutwum303@gmail.com  
+-  LinkedIn: [linkedin.com/in/paul-adutwum](https://linkedin.com/in/paul-adutwum)  
+- GitHub: [github.com/PaulAdutwum](https://github.com/PaulAdutwum)  
 
 🚀 _Always open to collaborations, learning opportunities, and exciting projects!_  
 
