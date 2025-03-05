@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   </div>
 </p>
-## 🌟  Projects  
+ 
 
 
 ##  GitHub Stats & Activity  
