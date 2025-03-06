@@ -1,6 +1,6 @@
  👋 Hello  
 
-Welcome to my GitHub profile! I'm I love learning and building apps that can potentially add value to our lives. 
+Welcome to my GitHub profile! I love learning and building apps that can potentially add value to our lives. 
 
   About Me  
 -  **Computer Science & Mathematics Major** at **Bates College**  
