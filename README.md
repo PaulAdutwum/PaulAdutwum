@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Paul Adutwum!   
+# 👋 Hello  
 
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusiast** with a passion for using technology to make the world better. 
+Welcome to my GitHub profile! I'm I love learning and building products that makes the world better. 
 
-##  About Me  
+  About Me  
 -  **Computer Science & Mathematics Major** at **Bates College**  
 -  Passionate about **Fullstack Development, AI, Data Science, Web Development, and Automation**  
 -  Focused on **building scalable, acesssible and user-friendly applications**  
@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
 
 ---
 
-## 🛠️ Tech Stack  
+ Tech Stack  
 
-###  Languages & Frameworks  
+  Languages & Frameworks  
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
   </div>
 </p>
 
-### 📊 Databases & Cloud  
+📊 Databases & Cloud  
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
 
 ---
 
-### 🛠️ Tools & Technologies  
+ Tools & Technologies  
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
  
 
 
-##  GitHub Stats & Activity  
+  GitHub Stats & Activity  
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=PaulAdutwum&show_icons=true&theme=radical" alt="GitHub Stats" />  
 </p>  
@@ -63,8 +63,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
 
 ---
 
-
-##  Pinned Repositories  
+  Pinned Repositories  
 
 <p align="center">  
   <a href="https://github.com/PaulAdutwum/Lumeo">  
@@ -81,8 +80,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Enthusia
  </a>  
 </p>  
 
-
-##  Contact Me  
+ Contact Me  
 -  Email: pauladutwum303@gmail.com  
 -  LinkedIn: [linkedin.com/in/paul-adutwum](https://linkedin.com/in/paul-adutwum)  
 - GitHub: [github.com/PaulAdutwum](https://github.com/PaulAdutwum)  
