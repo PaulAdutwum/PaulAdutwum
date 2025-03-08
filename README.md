@@ -1,6 +1,6 @@
  👋 Hello  
 
-Welcome to my GitHub profile! I love learning and building apps that can potentially add value to our lives. 
+Welcome to my GitHub profile! My name is Paul Adutwum,I  am a tech enthusiast! I love learning about new tech, and building apps that can add make our lives better!. 
 
   About Me  
 -  **Computer Science & Mathematics Major** at **Bates College**  
