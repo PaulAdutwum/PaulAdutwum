@@ -66,6 +66,9 @@ Welcome to my GitHub profile! My name is Paul Adutwum,I  am a tech enthusiast! I
   Pinned Repositories  
 
 <p align="center">  
+  <a href="https://github.com/PaulAdutwum/Chrome-Extension">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Chrome-Extension&theme=radical" alt="AI Accessibility Chrome Extension" />  
+  </a>  
   <a href="https://github.com/PaulAdutwum/Lumeo">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaulAdutwum&repo=Lumeo&theme=radical" alt="Lumeo AI Movie Recommendation System" />  
   </a>  
