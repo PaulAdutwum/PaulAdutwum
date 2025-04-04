@@ -86,8 +86,7 @@ Welcome to my GitHub profile! My name is Paul Adutwum,I  am a tech enthusiast! I
 -  LinkedIn: [linkedin.com/in/paul-adutwum](https://linkedin.com/in/paul-adutwum)  
 - GitHub: [github.com/PaulAdutwum](https://github.com/PaulAdutwum)  
 
-🚀 _Always open to collaborations, learning opportunities, and exciting projects!_  
 
----
+
 
 ### Thanks for visiting my profile! ✨  
