@@ -59,7 +59,7 @@ Welcome to my GitHub profile! My name is Paul Adutwum,I  am a tech enthusiast! I
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&theme=radical" alt="Top Languages" />  
 </p>  
 
----
+
 
   Pinned Repositories  
 
