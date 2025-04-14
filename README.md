@@ -8,15 +8,15 @@ Welcome to my GitHub! I'm a developer and lifelong learner currently pursuing a 
 
 ## 🔍 About Me  
 
-- 🎓 **Computer Science & Mathematics major** @ **Bates College**
-- 🌍 From **Ghana**, currently based in the U.S.
-- 💡 Passionate about **Fullstack Engineering, Data Science, and Web Development**
-- 📊 Exploring **analytics, automation**, and the power of data
+-  **Computer Science & Mathematics major** @ **Bates College**
+-  From **Ghana**, currently based in the U.S.
+-  Passionate about **Fullstack Engineering, AI/ ML, Data Science, and Web Development**
+-  Leaning **Go**, **Rust**, **RDBMS**
 - 💻 Currently building:
   - **Evoke AI** – a voice-powered **Web Accessibility Extension**
   - An **interactive Chatbot** for the new **Computer Science website** at Bates College
-- 🧠 Always looking to **learn, collaborate**, and connect with others who are enthusiastic about tech
-- ⚽ Outside of tech, I enjoy **soccer, basketball**, and connecting with community
+-  Always looking to **learn, collaborate**, and connect with others who are enthusiastic about tech
+-  Outside of tech, I enjoy **soccer, basketball**, and connecting with community
 
 ---
 
