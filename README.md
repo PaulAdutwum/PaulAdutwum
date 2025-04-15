@@ -13,8 +13,8 @@
 
 -  **Computer Science & Mathematics major** @ **Bates College**
 -  From **Ghana**, currently based in the U.S.
--  Passionate about **Fullstack Engineering, AI/ ML, Data Science, and Web Development**
--  Learning **Go**, **Rust**, **RDBMS** **Machine Learning**
+-  Interested in **Fullstack Engineering, AI/ ML, Data Science, and Web Development**
+-  Learning **Go**, **Rust**, **RDBMS** **ML**
 - 💻 Currently building:
   - **Evoke AI** – a voice-powered **Web Accessibility Extension**
   - An **interactive Chatbot** for the new **Computer Science website** at Bates College
