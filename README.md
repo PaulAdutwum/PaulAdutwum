@@ -5,7 +5,9 @@
 ### *"If it doesn’t challenge you, it won’t change you."*
 
 
- I'm a developer and lifelong learner. I’m passionate about using technology to make the  world a better place. 
+
+Building tools that save people time (so they can waste it how they want). 
+Because somewhere, someone is filling out the same form for the 10th time today.
 
 ---
 
