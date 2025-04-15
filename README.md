@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Paul Adutwum
 
-> *"Code is poetry—write it with passion, debug it with patience."*
+
+
+### *"If it doesn’t challenge you, it won’t change you."*
+
 
 Welcome to my GitHub! I'm a developer and lifelong learner currently pursuing a degree in **Computer Science & Mathematics** at **Bates College**. I’m passionate about using technology to solve meaningful problems—whether through fullstack development, data analytics, or building accessible digital experiences.
 
@@ -98,5 +101,5 @@ Welcome to my GitHub! I'm a developer and lifelong learner currently pursuing a 
 - 💻 **GitHub**: [github.com/PaulAdutwum](https://github.com/PaulAdutwum)
 
 ---
+> *"Code is poetry—write it with passion, debug it with patience."*
 
-### *"If it doesn’t challenge you, it won’t change you."*
