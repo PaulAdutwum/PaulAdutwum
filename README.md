@@ -7,7 +7,6 @@
 
 
 Building tools that save people time (so they can waste it how they want). 
-Because somewhere, someone is filling out the same form for the 10th time today.
 
 ---
 
