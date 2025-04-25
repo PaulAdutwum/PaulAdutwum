@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Paul Adutwum
-
 
 
 ### *"If it doesn’t challenge you, it won’t change you."*
