@@ -5,12 +5,79 @@
 <!-- GREETING_START -->
 
 
-Welcome to my GitHub profile!  
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="700" height="120"
+  viewBox="0 0 700 120"
+>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+    text {
+      font-family: 'Poppins', sans-serif;
+      font-size: 60px;
+      fill: #377dff;
+    }
+  </style>
 
-Here’s my contributions last week:
+  <!-- Line 1 -->
+  <text id="line1" x="50%" y="65" dominant-baseline="middle" text-anchor="middle">
+    Hi There! 👋
+  </text>
 
-<!-- WEEK_STATS_START -->
-<!-- WEEK_STATS_END -->
+  <!-- Line 2, initially hidden and off-screen -->
+  <text
+    id="line2"
+    x="50%" y="65"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    opacity="0"
+    transform="translate(-700,0)"
+  >
+    my name is Paul Adichoo
+  </text>
+
+  <!-- fade out line1 after 2s -->
+  <animate xlink:href="#line1"
+    attributeName="opacity"
+    values="1;0" dur="1s" begin="2s" fill="freeze" />
+
+  <!-- slide in line2 between 3s–4s and fade it in -->
+  <animateTransform xlink:href="#line2"
+    attributeName="transform"
+    type="translate"
+    from="-700,0" to="0,0"
+    dur="1s" begin="3s" fill="freeze" />
+  <animate xlink:href="#line2"
+    attributeName="opacity"
+    values="0;1" dur="0.5s" begin="3s" fill="freeze" />
+
+  <!-- hold line2 for 2s, then slide out between 6s–7s -->
+  <animateTransform xlink:href="#line2"
+    attributeName="transform"
+    type="translate"
+    from="0,0" to="700,0"
+    dur="1s" begin="6s" fill="freeze" />
+  <animate xlink:href="#line2"
+    attributeName="opacity"
+    values="1;0" dur="0.5s" begin="6s" fill="freeze" />
+
+  <!-- reset everything at 8s to loop -->
+  <set xlink:href="#line1" attributeName="opacity" to="1" begin="8s" />
+  <set xlink:href="#line2" attributeName="opacity" to="0" begin="8s" />
+  <set xlink:href="#line2" attributeName="transform" to="translate(-700,0)" begin="8s" />
+
+  <!-- loop: restart the whole animation -->
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    from="0,0" to="0,0"
+    dur="8s" repeatCount="indefinite"
+  />
+</svg>
+
+
 
 
 
