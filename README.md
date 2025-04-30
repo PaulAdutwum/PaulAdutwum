@@ -34,4 +34,4 @@ ____
 
 
 
-> "Code is poetry—write it with passion, debug it with patience."
+# Code is poetry—write it with passion, debug it with patience.
