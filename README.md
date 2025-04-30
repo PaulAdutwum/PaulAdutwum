@@ -1,10 +1,8 @@
 <!-- GREETING_START -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&font-weight=700&size=40&duration=2500&pause=1000&center=true&multiline=true&width=800&height=160&lines=Hi+there%F0%9F%91%8B%2C%0Amy+name+is+Paul+Adutwum)
 <!-- GREETING_END -->
-
 ## I am an Engineering student at Bates College and a budding developer.
-
-## 🛠️ Tech Stack
+____
 
 ### Languages & Frameworks  
 <p align="center">
@@ -31,7 +29,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaulAdutwum&show_icons=true&theme=radical&count_private=true" />
@@ -39,20 +37,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Contact
 
-- [Chrome Extension](https://github.com/PaulAdutwum/Chrome-Extension)  
-- [Lumeo](https://github.com/PaulAdutwum/Lumeo)  
-- [Bobcat Express Shuttle](https://github.com/PaulAdutwum/Bobcat-Express-Shuttle)  
-- [Stocks Prediction Project](https://github.com/PaulAdutwum/Stocks-Prediction-Project)  
-- [Paul’s Portfolio](https://github.com/PaulAdutwum/Pauls-Portfolio)  
-
----
-
-## 📬 Contact
-
-- 📧 **Email**: pauladutwum303@gmail.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/paul-adutwum](https://linkedin.com/in/paul-adutwum)  
-- 💻 **GitHub**: [github.com/PaulAdutwum](https://github.com/PaulAdutwum)
 
 > *"Code is poetry—write it with passion, debug it with patience."*
