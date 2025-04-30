@@ -1,10 +1,23 @@
+# 👋 Hi there!
+
+<!-- GREETING_START -->
+<!-- GREETING_START -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&size=30&duration=3000&pause=1000&center=true&multiline=false&width=600&height=80&lines=Hi+there,+I%27m+Paul+Adichoo)
+<!-- GREETING_END -->
+<!-- GREETING_END -->
+
+Welcome to my GitHub profile!  
+
+Here’s my contributions last week:
+
+<!-- WEEK_STATS_START -->
+<!-- WEEK_STATS_END -->
+
 
 
 ### *"If it doesn’t challenge you, it won’t change you."*
 
-### 🗓️ Weekly Contributions (Sun → Sat)
-
-Building tools that save people time (so they can waste it how they want). 
+ 
 
 ---
 
