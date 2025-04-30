@@ -19,24 +19,7 @@ ____
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-## 📈 Top Languages
 
-<p align="center">
-  <!-- GitHub-readme-stats Top Languages chart -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
-  <!-- Fallback / explicit shields for SQL and C++ -->
-  <img
-    src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"
-    alt="C++"
-  />
-  <img
-    src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"
-    alt="SQL"
-  />
-</p>
 
 
 ---
