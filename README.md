@@ -28,16 +28,17 @@ ____
 </p>
 
 ---
-
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaulAdutwum&show_icons=true&theme=radical&count_private=true" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulAdutwum&theme=radical" alt="GitHub Streak" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PaulAdutwum&theme=radical" alt="Activity Graph" />
 </p>
-
 ---
 
-##  Contact
+
 
 
 > *"Code is poetry—write it with passion, debug it with patience."*
