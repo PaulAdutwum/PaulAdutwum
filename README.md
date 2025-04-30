@@ -29,9 +29,7 @@ ____
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulAdutwum&theme=radical" alt="GitHub Streak" />
 </p>
----
 
 
 
-
-# Code is poetry—write it with passion, debug it with patience.
+ Code is poetry—write it with passion, debug it with patience.
