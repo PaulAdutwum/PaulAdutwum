@@ -2,23 +2,9 @@
 
 ### *"If it doesn’t challenge you, it won’t change you."*
 
-
+### 🗓️ Weekly Contributions (Sun → Sat)
 
 Building tools that save people time (so they can waste it how they want). 
-
----
-
-## 🔍 About Me  
-
--  **Computer Science & Mathematics major** @ **Bates College**
--  From **Ghana**, currently based in the U.S.
--  Interested in **Fullstack Engineering, AI/ ML, Data Science, and Web Development**
--  Learning **Go**, **Rust**, **RDBMS** **ML**
-- 💻 Currently building:
-  - **Evoke AI** – a voice-powered **Web Accessibility Extension**
-  - An **interactive Chatbot** for the new **Computer Science website** at Bates College
--  Always looking to **learn, collaborate**, and connect with others who are enthusiastic about tech
--  Outside of tech, I enjoy **soccer, basketball, fitness**, and connecting with community
 
 ---
 
@@ -32,7 +18,6 @@ Building tools that save people time (so they can waste it how they want).
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -40,22 +25,13 @@ Building tools that save people time (so they can waste it how they want).
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-### ☁️ Databases & Cloud  
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
+
 
 ### ⚒️ Tools & Platforms  
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
