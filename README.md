@@ -19,13 +19,25 @@ ____
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
- 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+## 📈 Top Languages
+
+<p align="center">
+  <!-- GitHub-readme-stats Top Languages chart -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
+  <!-- Fallback / explicit shields for SQL and C++ -->
+  <img
+    src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"
+    alt="C++"
+  />
+  <img
+    src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"
+    alt="SQL"
+  />
 </p>
+
 
 ---
 <p align="center">
