@@ -1,4 +1,3 @@
-# 👋 Hi there!
 
 <!-- GREETING_START -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=50&duration=3000&pause=500&center=true&multiline=true&width=700&height=120&lines=Hi+there%F0%9F%91%8B%2C%0Amy+name+is+Paul+Adutwum)
