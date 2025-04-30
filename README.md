@@ -1,10 +1,9 @@
 # 👋 Hi there!
 
 <!-- GREETING_START -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=3000&pause=500&center=true&multiline=true&width=700&height=120&lines=Hi+there%F0%9F%91%8B%2C%0Amy+name+is+Paul+Adutwum)
 <!-- GREETING_START -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Garamond&size=30&duration=3000&pause=1000&center=true&multiline=false&width=600&height=80&lines=Hi+there,+I%27m+Paul+Adichoo)
-<!-- GREETING_END -->
-<!-- GREETING_END -->
+
 
 Welcome to my GitHub profile!  
 
