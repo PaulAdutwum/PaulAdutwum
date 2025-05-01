@@ -25,7 +25,10 @@ ____
 ---
 <p>
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&theme=radical" alt="Top Languages" />
+ <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&langs_count=10&theme=radical" 
+  alt="Top Languages" 
+/>
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulAdutwum&theme=radical" alt="GitHub Streak" />
 </p>
