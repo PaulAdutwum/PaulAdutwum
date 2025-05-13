@@ -35,10 +35,11 @@ ____
   alt="GitHub Streak" 
 />
 
-![Summary Cards](https://raw.githubusercontent.com/PaulAdutwum/PaulAdutwum/main/profile-summary-card-output/github/3-stats.svg)
+
  
 </p>
 
+![Summary Cards](https://raw.githubusercontent.com/PaulAdutwum/PaulAdutwum/main/profile-summary-card-output/github/3-stats.svg)
 
 
  Code is poetry—write it with passion, debug it with patience.
