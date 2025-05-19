@@ -1,7 +1,7 @@
 <!-- GREETING_START -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&font-weight=700&size=40&duration=2500&pause=1000&center=true&multiline=true&width=800&height=160&lines=Hi+there%F0%9F%91%8B%2C%0Amy+name+is+Paul+Adutwum)
 <!-- GREETING_END -->
- I'm a budding developer passionate about software engineering and data analytics, currently studying Engineering & Math at Bates College. Exploring projects in full-stack development, automation, and data-driven solutions—always learning and building.
+ I’m a budding developer passionate about software engineering, machine learning, and hardware. I’m currently studying Physics with a concentration in Computer Science at Bates College. I enjoy exploring projects in full-stack development, machine learning, electronics, and data analysis—always learning, building, and looking for ways to turn ideas into impactful solutions.
 ____
 
  
