@@ -4,8 +4,6 @@
  I’m a budding developer passionate about software engineering, machine learning, and hardware. I’m currently studying Physics with a concentration in Computer Science at Bates College. I enjoy exploring projects in full-stack development, machine learning, electronics, and data analysis—always learning, building, and looking for ways to turn ideas into impactful solutions.
 ____
 
-
----
 <p>
   <!-- Top Languages -->
 <img 
