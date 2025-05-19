@@ -25,9 +25,17 @@ ____
 ---
 <p>
   <!-- Top Languages -->
- ### 📊 GitHub Contribution Graph
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&langs_count=10&theme=radical" 
+  alt="Top Languages" 
+/>
+  <!-- Streak Stats -->
+ <img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=PaulAdutwum&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+  alt="GitHub Streak" 
+/>
 
-![GitHub Snake animation](https://raw.githubusercontent.com/PaulAdutwum/PaulAdutwum/output/github-contribution-grid-snake.svg)
+
 
  
 </p>
