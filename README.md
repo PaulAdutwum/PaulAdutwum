@@ -7,7 +7,7 @@ ____
 <p>
   <!-- Top Languages -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&langs_count=10&theme=radical" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdutwum&layout=compact&langs_count=14&theme=radical" 
   alt="Top Languages" 
 />
   <!-- Streak Stats -->
