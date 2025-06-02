@@ -18,7 +18,6 @@ ____
  
 </p>
 
-![Summary Cards](https://raw.githubusercontent.com/PaulAdutwum/PaulAdutwum/main/profile-summary-card-output/github/3-stats.svg)
 
 
  Thank you for visiting my profile!
