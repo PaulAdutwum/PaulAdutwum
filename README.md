@@ -24,7 +24,7 @@ I work in Python and Java, build full-stack AI applications, and am going deeper
 Deepening my understanding of financial markets, derivatives, and risk modeling through hands-on projects and direct exposure to trading desk operations.
 
 
-**Software engineering. Quantitative finance. Hardware systems.**
+*Software engineering. Quantitative finance. Hardware systems.**
 
 *If the problem is hard and the stakes are real, I'm building it.*
 
