@@ -7,7 +7,6 @@ I published combinatorics research, won a national data science competition, and
 I work in Python and Java, build full-stack AI applications, and am going deeper into embedded C++, machine learning, and quantitative systems. Deepening my understanding of financial markets, derivatives, and risk modeling through hands-on projects and direct exposure to trading desk operations.
 Software engineering. Quantitative finance. Hardware systems. If the problem is hard and the stakes are real, I'm building it.
 
-
 ____
 
 <p>
