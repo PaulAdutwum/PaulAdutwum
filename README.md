@@ -7,7 +7,6 @@
 
 First-gen student. Incoming @ Columbia ECE. Finishing Math & CS at Bates.
 
-<br>
 
 I published combinatorics research, won a national data science competition, and spent last summer building financial data pipelines at a fintech startup.
 
@@ -15,20 +14,23 @@ I published combinatorics research, won a national data science competition, and
 
 Before that I was writing embedded firmware for autonomous object detection systems.
 
-<br>
-
 Currently building a computer vision system for automated waste classification — thinking about how it becomes real sorting infrastructure.
 
 <br>
 
+
 I work in Python and Java, build full-stack AI applications, and am going deeper into embedded C++, machine learning, and quantitative systems.
 
-<br>
 Deepening my understanding of financial markets, derivatives, and risk modeling through hands-on projects and direct exposure to trading desk operations.
 
-<br>
+
 **Software engineering. Quantitative finance. Hardware systems.**
 
+*If the problem is hard and the stakes are real, I'm building it.*
+
 <br>
 
-*If the problem is hard and the stakes are real, I'm building it.*
+
+<br>
+
+
