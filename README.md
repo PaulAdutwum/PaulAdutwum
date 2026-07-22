@@ -26,7 +26,6 @@ Deepening my understanding of financial markets, derivatives, and risk modeling 
 
 *Software engineering. Quantitative finance. Hardware systems.**
 
-*If the problem is hard and the stakes are real, I'm building it.*
 
 <br>
 
