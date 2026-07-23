@@ -29,7 +29,6 @@ Deepening my understanding of financial markets, derivatives, and risk modeling 
 
 <br>
 
-
 <br>
 
 
