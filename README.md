@@ -5,30 +5,25 @@
 
 <br>
 
-First-gen student. Incoming @ Columbia ECE. Finishing Math & CS at Bates.
-
-
-I published combinatorics research, won a national data science competition, and spent last summer building financial data pipelines at a fintech startup.
+First-gen student. Studying Electrical and Computer Engineering at Columbia University.
 
 <br>
 
-Before that I was writing embedded firmware for autonomous object detection systems.
+I published combinatorics research, won the American Statistical Association data science competition, and spent last summer building financial data pipelines at a fintech startup. 
+<br>
 
-Currently building a computer vision system for automated waste classification — thinking about how it becomes real sorting infrastructure.
+Currently building a computer vision system for automated waste classification.
+
+
+---
+
+**Ongoing projects**
+
+- **RecycLens** — computer vision pipeline for automated waste classification, exploring real-world sorting infrastructure
+- **Beta Drift** — Gaussian HMM and multi-factor OLS regression engine to classify market stress regimes and optimize portfolio rebalancing under macro factor constraints
+- **UART Controller on FPGA** — full-duplex serial controller in Verilog on Basys 3, building digital design fundamentals from the ground up
 
 <br>
 
-
-I work in Python and Java, build full-stack AI applications, and am going deeper into embedded C++, machine learning, and quantitative systems.
-
-Deepening my understanding of financial markets, derivatives, and risk modeling through hands-on projects and direct exposure to trading desk operations.
-
-
-*Software engineering. Quantitative finance. Hardware systems.**
-
-
-<br>
-
-<br>
-
+Always building something. Feel free to reach out if you want to talk about any of these.
 
