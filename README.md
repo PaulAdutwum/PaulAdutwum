@@ -19,8 +19,8 @@ Currently building a computer vision system for automated waste classification.
 
 **Ongoing projects**
 
-- **RecycLens** — computer vision pipeline for automated waste classification, exploring real-world sorting infrastructure
-- **Beta Drift** — Gaussian HMM and multi-factor OLS regression engine to classify market stress regimes and optimize portfolio rebalancing under macro factor constraints
+- **RecycLens** - computer vision pipeline for automated waste classification, exploring real-world sorting infrastructure
+- **Beta Drift** - Gaussian HMM and multi-factor OLS regression engine to classify market stress regimes and optimize portfolio rebalancing under macro factor constraints
 - **UART Controller on FPGA** — full-duplex serial controller in Verilog on Basys 3, building digital design fundamentals from the ground up
 
 <br>
