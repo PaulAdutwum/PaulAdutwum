@@ -1,29 +1,20 @@
 <!-- GREETING_START -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&font-weight=700&size=40&duration=2500&pause=1000&center=true&multiline=true&width=800&height=160&lines=Hi+there%F0%9F%91%8B%2C%0Amy+name+is+Paul+Adutwum)
 <!-- GREETING_END -->
-👋 Hi, Welcome to my GitHub.
+👋 Hi there! Thanks for visiting my GitHub.
 
-<br>
+I’m an Electrical & Computer Engineering student at Columbia University.
 
-First-gen student. Studying Electrical and Computer Engineering at Columbia University.
+### Currently building
 
-<br>
+- **RecycLens** — computer vision system for real-time waste classification, exploring its application to automated sorting infrastructure
 
-I published combinatorics research, won the American Statistical Association data science competition, and spent last summer building financial data pipelines at a fintech startup. 
-<br>
+- **Beta Drift** — quantitative risk engine using Gaussian HMMs and multi-factor regression to identify market regimes, analyze market volatility, and provide insights for portfolio risk management and rebalancing
 
-Currently building a computer vision system for automated waste classification.
-
+- **FPGA UART Controller** — full-duplex serial communication controller in Verilog on the Basys 3, built while deepening my understanding of digital logic and FPGA design
 
 ---
 
-**Ongoing projects**
+I believe there’s always something new to learn from every interaction, regardless of the time or place.
 
-- **RecycLens** - computer vision pipeline for automated waste classification, exploring real-world sorting infrastructure
-- **Beta Drift** - Gaussian HMM and multi-factor OLS regression engine to classify market stress regimes and optimize portfolio rebalancing under macro factor constraints
-- **UART Controller on FPGA** — full-duplex serial controller in Verilog on Basys 3, building digital design fundamentals from the ground up
-
-<br>
-
-Always building something. Feel free to reach out if you want to talk about any of these.
-
+Feel free to reach out!
