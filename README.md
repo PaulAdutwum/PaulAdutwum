@@ -7,11 +7,11 @@ I’m an Electrical & Computer Engineering student at Columbia University.
 
 ### Currently building
 
-- **RecycLens** — computer vision system for real-time waste classification, exploring its application to automated sorting infrastructure
+- **RecycLens**  - computer vision system for real-time waste classification, exploring its application to automated sorting infrastructure
 
-- **Beta Drift** — quantitative risk engine using Gaussian HMMs and multi-factor regression to identify market regimes, analyze market volatility, and provide insights for portfolio risk management and rebalancing
+- **Beta Drift** - quantitative risk engine using Gaussian HMMs and multi-factor regression to identify market regimes, analyze market volatility, and provide insights for portfolio risk management and rebalancing
 
-- **FPGA UART Controller** — full-duplex serial communication controller in Verilog on the Basys 3, built while deepening my understanding of digital logic and FPGA design
+- **FPGA UART Controller** - full-duplex serial communication controller in Verilog on the Basys 3, built while deepening my understanding of digital logic and FPGA design
 
 ---
 
